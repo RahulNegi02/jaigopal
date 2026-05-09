@@ -1,0 +1,12 @@
+{
+  "name": "jaigopal-starter",
+  "version": "0.1.0",
+  "description": "Minimal Node.js React SPA",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node -e \"console.log('no tests')\""
+  },
+  "author": "",
+  "license": "MIT"
+}
